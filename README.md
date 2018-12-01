@@ -1,6 +1,6 @@
 # Generating Steganographic Images via Adversarial Training
 
-This is a toy example (on CelebA) of how to run attacks presented in https://arxiv.org/abs/1703.00371
+This is a toy example (on CelebA) of how to run experiments presented in https://arxiv.org/abs/1703.00371
 
 ## To run
 
