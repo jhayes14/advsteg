@@ -28,3 +28,7 @@ Loss plots.
 Bob decoding success.
 
 <img src="results/correct_bits.png"  width="300" height="240">
+
+## Notes
+
+Hyperparameter optimization is needed for optimal results (and other tweaks like using high capacity networks).
