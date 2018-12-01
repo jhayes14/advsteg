@@ -9,3 +9,22 @@ This is a toy example (on CelebA) of how to run attacks presented in https://arx
 
 ## Results 
 
+Example of real images. 
+
+<img src="results/real_output_output_32.png"  width="300" height="240">
+
+Example of Alice generated images at Epoch 0. 
+
+<img src="results/noise_output_output_0.png"  width="300" height="240">
+
+Example of Alice generated images at Epoch 500. 
+
+<img src="results/noise_output_output_500.png"  width="300" height="240">
+
+Loss plots.
+
+<img src="results/eve_loss.png"  width="300" height="240">
+
+Bob decoding success.
+
+<img src="results/correct_bits.png"  width="300" height="240">
